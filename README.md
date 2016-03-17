@@ -1,5 +1,5 @@
-# Factorio Docker Server
-## 异星工厂服务端Docker版
+# Headless Factorio Dockerized Server
+## 异星工厂0.12.26服务端Docker版
 
 ### 最简使用
 
